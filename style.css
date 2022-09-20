@@ -1,0 +1,21 @@
+h1{
+    background-color:aquamarine;
+}
+#division{
+    color:greenyellow;
+    text-align:right;
+    text-decoration: underline;
+    text-decoration:overline;
+    text-transform: uppercase;
+    text-shadow: 10px 10px blueviolet;
+
+}
+.one{
+    color:red;
+}
+.black{
+    color: green;
+}
+.sweet{
+    background-color: yellow;
+}
